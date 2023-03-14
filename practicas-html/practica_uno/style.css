@@ -22,7 +22,7 @@ main{
 }
 .target{
     border: none;
-    border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 4px 4px;
     overflow: hidden;
     box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
 }
